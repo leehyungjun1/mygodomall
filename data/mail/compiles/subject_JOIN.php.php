@@ -1,0 +1,2 @@
+<?php /* Template_ 2.2.7 2021/04/20 14:30:13 /www/unpobby1_godomall_com/data/mail/subject_JOIN.php 000000229 */ ?>
+[<?php echo $TPL_VAR["rc_mallNm"]?>] <?php echo $TPL_VAR["rc_memNm"]?> 님의 회원가입을 축하드립니다.
